@@ -1,0 +1,15 @@
+{
+    "type": "code",
+    "modid": "hodprocompat",
+    "name": "HodProCompat",
+    "authors": [
+        "traugdor"
+    ],
+    "description": "I just wanna play with Prosequor and Hydrate or Diedrate and not have the weird meter overlap!! TT_TT",
+    "version": "1.0.0",
+    "dependencies": {
+      "game": "",
+      "prosequor": "",
+      "hydrateordiedrate": ""
+    }
+}

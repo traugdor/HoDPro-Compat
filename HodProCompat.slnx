@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HodProCompat/HodProCompat.csproj" />
+  <Project Path="ZZCakeBuild/CakeBuild.csproj" />
+</Solution>
